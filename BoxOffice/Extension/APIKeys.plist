@@ -1,12 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
-<!--
-   APIKeys.plist
-   BoxOffice
-
-   Created by 최서희 on 8/26/24.
-   Copyright (c) 2024 ___ORGANIZATIONNAME___. All rights reserved.
--->
 <plist version="1.0">
-<dict/>
+<dict>
+	<key>kobisApiKey</key>
+	<string>49bc5ca232e098d6c7fdf2154bc2d160</string>
+	<key>omdbApiKey</key>
+	<string>7c3ba236</string>
+</dict>
 </plist>

@@ -15,6 +15,4 @@
 
 ## 2. 실행 화면
 
-<br>
-
 ![](https://github.com/user-attachments/assets/955bb577-07fa-4403-b87d-ce1180d486a9)
